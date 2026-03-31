@@ -10,7 +10,7 @@ Idealny dla osób, które lubią rzucać niestandardowymi emotkami w komentarzac
 Według mnie jest to prawdziwy must have QOL ( ͡° ͜ʖ ͡°)
 
 ## Główne funkcje:
-* Dodaje przycisk **✌︎㋡** obok każdego pola tekstowego (wpisy, komentarze, edycja itp.)
+* Dodaje przycisk "**✌︎㋡**" obok każdego pola tekstowego (wpisy, komentarze, edycja itp.).
 * Otwiera panel z emojidb.org w wygodnym, skalowalnym oknie.
 * Inteligentna nawigacja w iframe - linki otwierają się wewnątrz panelu (nie w nowej karcie).
 * Przyciski "**← Wstecz**" i ︎"**🏠︎ Główna**" do szybkiego poruszania się po EmojiDB.
