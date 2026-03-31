@@ -14,6 +14,7 @@ Według mnie jest to prawdziwy must have QOL ( ͡° ͜ʖ ͡°)
 * Otwiera panel z emojidb.org w wygodnym, skalowalnym oknie.
 * Inteligentna nawigacja w iframe - linki otwierają się wewnątrz panelu (nie w nowej karcie).
 * Przyciski "**← Wstecz**" i ︎"**🏠︎ Główna**" do szybkiego poruszania się po EmojiDB.
+* Suwak Zoom dla lepszej wygody korzystania z EmojiDB. 
 * Po kliknięciu emoji zostaje skopiowane do schowka (działa tak, jak na emojidb.org).
 * Panel pamięta rozmiar i pozycję między sesjami.
 * Wsparcie dla ciemnego trybu Wykopu.
