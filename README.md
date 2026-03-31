@@ -14,7 +14,7 @@ To prawdziwy **QOL must-have** dla każdego, kto lubi rzucać emotkami w komenta
 ## Rekomendowany wygląd:
 Bardzo polecam, gdyż skrypt najlepiej wygląda w połączeniu ze zmienionym interfejsem. 
 Osobiście używam go razem z rozszerzeniem **Stylus** oraz stylem:  
-**[Wykop X / The Best Style](https://github.com/tentin-quarantino/wykop-the-best-style)**
+**[Wykop the best style ✨](https://github.com/tentin-quarantino/wykop-the-best-style)**
 
 > Skrypt działa też bez dodatkowego stylu, ale z „Wykop X” prezentuje się najlepiej.
 
