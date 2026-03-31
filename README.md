@@ -2,14 +2,22 @@
 
 ![Podgląd skryptu](Preview.png)
 
-Skrypt do rozszerzenia **Tampermonkey**, który dodaje mały, ale potężny przycisk przy polu tekstowym na Wykop.pl. Po kliknięciu otwiera się podręczny panel z stroną emojidb.org.
-
-To prawdziwy **QOL must-have** dla każdego, kto lubi rzucać emotkami w komentarzach i wpisach.
+Mały, ale potężny skrypt do Tampermonkey, który dodaje przycisk z emotkami (✌︎㋡) przy każdym polu tekstowym na Wykop.pl.  
+Po kliknięciu otwiera się panel z pełną stroną emojidb.org prosto w iframe.  
+  
+Idealny dla osób, które lubią rzucać niestandardowymi emotkami w komentarzach i wpisach.  
+  
+Według mnie jest to prawdziwy must have QOL ( ͡° ͜ʖ ͡°)
 
 ## Główne funkcje:
-* **Baza emotek pod ręką:** Dodaje przycisk (`✌︎㋡`) obok każdego pola tekstowego na Wykopie. Jego kliknięcie wysuwa panel z wyszukiwarką emotek emojidb.org.
-* **Wygodna nawigacja (iframe):** Skrypt wymusza na stronie EmojiDB otwieranie linków wewnątrz okienka (zamiast w nowych kartach). Dodatkowe przyciski "Wstecz" i "Główna" ułatwiają skakanie po kategoriach. Po wybraniu emoji wystarczy kliknąć na nie, a wybrana emotka skopiuje się do schowka.
-* **Pamięć sesji i rozmiaru:** Możesz dowolnie rozciągać i powiększać panel z emotkami. Skrypt zapamięta Twoje preferencje i przy kolejnym otwarciu okienko będzie miało dokładnie taki sam rozmiar.
+* Dodaje przycisk **✌︎㋡** obok każdego pola tekstowego (wpisy, komentarze, edycja itp.)
+* Otwiera panel z emojidb.org w wygodnym, skalowalnym oknie.
+* Inteligentna nawigacja w iframe - linki otwierają się wewnątrz panelu (nie w nowej karcie).
+* Przyciski "**← Wstecz**" i ︎"**🏠︎ Główna**" do szybkiego poruszania się po EmojiDB.
+* Po kliknięciu emoji zostaje skopiowane do schowka (działa tak, jak na emojidb.org).
+* Panel pamięta rozmiar i pozycję między sesjami.
+* Wsparcie dla ciemnego trybu Wykopu.
+
 
 ## Rekomendowany wygląd:
 Bardzo polecam, gdyż skrypt najlepiej wygląda w połączeniu ze zmienionym interfejsem. 
