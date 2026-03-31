@@ -27,7 +27,7 @@ Osobiście używam go razem z rozszerzeniem **Stylus** oraz stylem:
 
 **[ZAINSTALUJ SKRYPT](https://github.com/Black-Reven/Wykop-EmojiDB-iframe/raw/main/WykopEmojiDB.user.js)**
 
-**[ZAINSTALUJ PRZEZ GREASY FORK](https://greasyfork.org/pl/scripts/XXXXX-wykop-emojidb-iframe)** *(link pojawi się po publikacji na Greasy Fork)*
+**[ZAINSTALUJ PRZEZ GREASY FORK](https://greasyfork.org/pl/scripts/571967-wykop-emojidb-iframe)** 
 
 ## WAŻNE!!!
 Chciałbym zaznaczyć, że **nie jestem programistą**, a samo programowanie to dla mnie czarna magia.  
